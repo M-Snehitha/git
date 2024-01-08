@@ -1,0 +1,2 @@
+print("SRIT")
+print("WADI")
